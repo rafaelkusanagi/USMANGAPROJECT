@@ -37,11 +37,12 @@ Tenham um bom entretenimento, fiquem na paz e nostalgia. - [COLOR deeppink]|[/CO
 
 <item>
 <title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]NOME DO FILME AKIIII [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</title>
-<link>plugin://.plugin.video.gdrive?mode=streamURL&amp;url=URLhttps://drive.google.com/file/d/1HbJVzZ0pOrcQx2pwCpzrJc-kpjOf1vCz/view?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URLhttps://drive.google.com/file/d/1HbJVzZ0pOrcQx2pwCpzrJc-kpjOf1vCz/view?usp=drivesdk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info>edicao teste<info>
+<info><info>
 <item>
+
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
