@@ -17,15 +17,10 @@
 <item>
 
 
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601505.us.archive.org/4/items/SESSAOOVASEFILMES/ENTRADA%20PODEM%20PASSAR.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/rafaelkusanagi/USMANGAPROJECT/master/01%20-%20Categorias</externallink>
-<fanart>https://ia801505.us.archive.org/4/items/SESSAOOVASEFILMES/FANARTPODEPASSAR.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - PORTA DE ENTRADA PARA O US MANGA PROJECT - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+<item>
+<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]NOME DO FILME AKIIII [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xIRWZvczhL5zecme6MESS7CwoGAwxnSv/view</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info><info>
+<item>
