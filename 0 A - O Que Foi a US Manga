@@ -17,10 +17,6 @@
 <item>
 
 
-<item>
-<title>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]NOME DO FILME AKIIII [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ynM5MiSWqIPQRgd_gHgj5-IjMCkOu8_r/view</link>
-<thumbnail>https://archive.org/download/nadesico_-_il_principe_delle_tenebre_-_the_movie-min/nadesico_-_il_principe_delle_tenebre_-_the_movie-min.png</thumbnail>
-<fanart>https://ia601401.us.archive.org/11/items/2ghostintheshellaseminalcyberpunkanimeclassicthebakablogbtglifestylemin/2Ghost-in-the-Shell-A-Seminal-Cyberpunk-Anime-Classic-The-Baka-Blog-BTG-Lifestyle-min.jpg</fanart>
-<info><info>
-<item>
+<audio controls="controls">
+  <source src="https://drive.google.com/file/d/1ynM5MiSWqIPQRgd_gHgj5-IjMCkOu8_r/view-">
+</audio>
