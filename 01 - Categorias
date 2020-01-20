@@ -1,4 +1,3 @@
-
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]PACOTE DE TRAILERS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
@@ -8,7 +7,7 @@
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - Confiram alguns trailers de animes e filmes que iremos disponibilizar com o passar dos meses. Alguns trailers sao de origem da distribuidora norte-americana US Manga Corps. Os mais recentes foram editados por Rafael Kusanagi  - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - Confiram trailers de animes e filmes que iremos disponibilizar com o passar dos meses. Alguns trailers sao de origem da distribuidora norte-americana US Manga Corps. Os mais recentes foram editados por Rafael Kusanagi  - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -48,12 +47,12 @@
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]OVAS & FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://archive.org/download/SESSAOOVASEFILMES/SESSAOOVASEFILMES.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/rafaelkusanagi/USMANGAPROJECT/master/03%20-%20OVAs%20%26%20Filmes</externallink>
 <fanart>https://ia801505.us.archive.org/4/items/SESSAOOVASEFILMES/MENU%20SESSAO%20OVAS%20E%20FILMES.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - Confira a lista dos animes curtas & longas que estão disponiveis no momento - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - Confira a lista dos animes, curtas & longas que estão disponiveis no momento. - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
