@@ -1,20 +1,5 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]PACOTE DE TRAILERS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801505.us.archive.org/4/items/SESSAOOVASEFILMES/US%20MANGA%20TRAILERS.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801505.us.archive.org/4/items/SESSAOOVASEFILMES/MENU%20TRAILERS.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - Confiram trailers de animes e filmes que iremos disponibilizar com o passar dos meses. Alguns trailers sao de origem da distribuidora norte-americana US Manga Corps. Os mais recentes foram editados por Rafael Kusanagi  - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ABERTURA/ENCERRAMENTO (2020) US MANGA PROJECT[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
@@ -30,29 +15,30 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ABERTURA/ENCERRAMENTO CLASSICO (1996) US MANGA CORPS DO BRASIL[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]PACOTE DE TRAILERS US Manga[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601407.us.archive.org/33/items/usmangatrailersmin/US%20MANGA%20TRAILERS-min.png</thumbnail>
 <externallink>https://</externallink>
-<fanart></fanart>
+<fanart>https://ia801407.us.archive.org/33/items/usmangatrailersmin/MENU%20TRAILERS-min.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - Abertura/Encerramento classico do programa US Manga Corps do Brasil. Modificado por Rafael Kusanagi- [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - Antes de procurar algo pra assistir, recomendo da uma olhadinha nos trailers de curtas e longas que estao disponiveis e outros que iremos disponibilizar com o passar dos meses. Alguns trailers sao de origem da distribuidora norte-americana US Manga Corps. Os mais recentes foram editados por Rafael Kusanagi  - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]OVAS & FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/SESSAOOVASEFILMES/SESSAOOVASEFILMES.png</thumbnail>
+<thumbnail>https://ia801400.us.archive.org/13/items/sessaoovasefilmesmin/SESSAOOVASEFILMES-min.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/rafaelkusanagi/USMANGAPROJECT/master/03%20-%20OVAs%20%26%20Filmes</externallink>
-<fanart>https://ia801505.us.archive.org/4/items/SESSAOOVASEFILMES/MENU%20SESSAO%20OVAS%20E%20FILMES.jpg</fanart>
+<fanart>https://ia801400.us.archive.org/13/items/sessaoovasefilmesmin/MENU%20SESSAO%20OVAS%20E%20FILMES-min.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - Confira a lista dos animes, curtas & longas que estão disponiveis no momento. - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - Navegue na sopa de letrinhas e procure o titulo que tenha agradado voce durante algum trailer da pasta acima. - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
