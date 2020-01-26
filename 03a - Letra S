@@ -31,14 +31,6 @@ US Manga Project é um ADD-ON totalmente gratuito. Se alguém lhe cobrou algum c
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Samurai X: Réquiem para a restauração - US MANGA PROJECT[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>
-
 
 [COLOR deeppink]|[/COLOR] -A pasta contém o Filme/OVA que você selecionou.
 US Manga Project é um ADD-ON totalmente gratuito. Se alguém lhe cobrou algum centavo/real por ele, você foi enganado.- [COLOR deeppink]|[/COLOR]</info>
@@ -51,7 +43,7 @@ US Manga Project é um ADD-ON totalmente gratuito. Se alguém lhe cobrou algum c
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Samurai X: OVA 1 - Trust & Betrayalo  - US MANGA PROJECT[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/rafaelkusanagi/USMANGAPROJECT/master/Z%20Samurai%20X%3A%20Trust%20%26%20Betrayal</externallink>
 <fanart></fanart>
 <info>
 
@@ -62,6 +54,14 @@ US Manga Project é um ADD-ON totalmente gratuito. Se alguém lhe cobrou algum c
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Samurai X: Réquiem para a Restauração - US MANGA PROJECT[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>
 
 <channels>
 <channel>
