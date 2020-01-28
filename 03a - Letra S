@@ -97,6 +97,30 @@ US Manga Project é um ADD-ON totalmente gratuito. Se alguém lhe cobrou algum c
 
 <channels>
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Saint Seiya - US MANGA PROJECT[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelkusanagi/USMANGAPROJECT/master/Z%20Saint%20Seiya</externallink>
+<fanart></fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Shuten Douji - US MANGA PROJECT[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] -A pasta contém o Filme/OVA que você selecionou.
+US Manga Project é um ADD-ON totalmente gratuito. Se alguém lhe cobrou algum centavo/real por ele, você foi enganado.- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Sukeban Deka - US MANGA PROJECT[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/rafaelkusanagi/USMANGAPROJECT/master/Z%20Sukeban%20Deka</externallink>
